@@ -1,0 +1,12 @@
+{
+  "name": "base-trader-bot",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "wrangler": "^3.91.0"
+  },
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  }
+}
